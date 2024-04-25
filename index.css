@@ -1,0 +1,67 @@
+body{
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgb(255, 255, 255) 24%, rgb(100, 214, 106) 100%);
+}
+
+#navbg{
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgb(255, 255, 255) 27%, rgba(255,131,5,0) 100%);
+}
+
+#ftbg{
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgb(255, 255, 255) 27%, rgba(255,131,5,0) 100%);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#carouselId {
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+#login {
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+@font-face {
+    font-family: milk;
+    src: url(fonts/Milker.ttf);
+  }
+
+  @font-face {
+    font-family: narnia;
+    src: url(fonts/Narnia.ttf);
+  }
+
+  @font-face {
+    font-family: galak;
+    src: url(fonts/GalakPro.otf);
+  }
+
+  
+  body {
+    font-family: milk;
+  }
+
+
+  a:hover{
+    color: rgb(255, 10, 10) !important;
+  }
+  
+  
+
+
+
+
